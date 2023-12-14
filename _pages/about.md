@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Ya-Nan Zhu's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
