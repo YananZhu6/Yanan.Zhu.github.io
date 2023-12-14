@@ -9,4 +9,4 @@ redirect_from:
 ---
 About Me
 ======
-I am a postdoctral in [University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab-x19611.html). I graduated from school of Mathemtical Sciences and Institute of Natural Sciences(INS), Shanghai Jiao Tong University.
+I am a postdoctral in [University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab-x19611.html). I graduated from the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and the [Institute of Natural Sciences(INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
