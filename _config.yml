@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ya-Nan's Homepage"
-# title_separator          : "-"
-# name                     : &name "Your Name"
-# description              : &description "personal description"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
 # url                      : https://Yanan.Zhu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ya-Nan Zhu"
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   bio              : "Optimization"
-  # location         : "Location"
+  location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
