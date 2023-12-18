@@ -1,3 +1,8 @@
+---
+permalink: /publication/2009-10-01-paper-title-number-1
+---
+
+
 Preprints
 ======
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
