@@ -7,4 +7,4 @@ date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-- Ya-Nan Zhu, Xiaoqun Zhang. [Stochastic Primal Dual Fixed Point Method for Composite Optimization.](https://link.springer.com/article/10.1007/s10915-020-01265-2), 2020, 84(1): 1-25. 
+- Ya-Nan Zhu, Xiaoqun Zhang. [Stochastic Primal Dual Fixed Point Method for Composite Optimization.](https://link.springer.com/article/10.1007/s10915-020-01265-2),Journal of Scientific Computing, 2020, 84(1): 1-25. 
