@@ -1,6 +1,6 @@
 Preprints
 ======
-- **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2023. Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604).
+- **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2023. [Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604).
 
   
 Publications
