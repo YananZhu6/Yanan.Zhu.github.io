@@ -1,3 +1,7 @@
+---
+permalink: /publication/2009-10-01-paper-title-number-1
+---
+
 ## Publications
 - Zhao He, **Ya-Nan Zhu**,Yu Chen, et al. 2023. [A deep unrolled neural network for real-time MRI-guided brain intervention.](https://www.nature.com/articles/s41467-023-43966-w) **Nature Communications**, 14(1), 8257.
 - Zhe Xiong, Lei Li, **Ya-Nan Zhu**, Xiaoqun Zhang. [On the convergence of continuous and discrete unbalanced optimal transport models.](https://arxiv.org/abs/2303.17267). **SIAM J. Numer. Anal** (Accepted). 
