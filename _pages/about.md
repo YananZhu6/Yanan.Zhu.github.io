@@ -13,5 +13,5 @@ I am a postdoctral researcher in the [University of Kansas Medical Center](https
 
 Education
 ======
--  2017-2021, Ph.D. in Computational Mathematics,
+-  **2017-2021**, Ph.D. in Computational Mathematics,
    [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) \\
