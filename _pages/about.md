@@ -18,4 +18,4 @@ Education
 - **2014-2017**, Master in Computational Mathematics,
   [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 - **2010-2014**, Bachelor in Applied Mathematics,
-  [School of Sciences](http://ss.hitwh.edu.cn/sxx/list.htm) , [Harbin Institute of Technology, Weihai](https://www.hitwh.edu.cn/)
+  [School of Sciences](http://ss.hitwh.edu.cn/sxx/list.htm) , [Harbin Institute of Technology,Weihai](https://www.hitwh.edu.cn/)
