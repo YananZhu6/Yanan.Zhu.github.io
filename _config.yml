@@ -83,12 +83,12 @@ author:
   name             : "Ya-Nan Zhu"
   avatar           : "profile.png"
   # avatar           : "Headshot.jpg"
-  bio              : "Optimization"
+  # bio              : "Optimization"
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : yzhu4@kumc.edu
+  # email            : yzhu4@kumc.edu
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
