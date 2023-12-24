@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ya-Nan's Homepage"
+title                    : "Ya-Nan Zhu's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ya-Nan Zhu"
+  # name             : "Ya-Nan Zhu"
   avatar           : "profile.png"
   # avatar           : "Headshot.jpg"
   # bio              : "Optimization"
