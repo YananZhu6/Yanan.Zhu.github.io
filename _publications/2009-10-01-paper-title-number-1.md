@@ -5,10 +5,11 @@ permalink: /publications/
 ---
 
 ## Preprints
+- Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang.2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery() 
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
 - Jiangjun Ma, Yuting Lin, Min Tang, **Ya-Nan Zhu**, et al. SDDRO-DMF: Simultaneous Dose and Dose Rate Optimization (SDDRO) via Dose Modifying Factor (DMF) modeling for FLASH effective dose.
 - Junyi Fan,**Ya-Nan Zhu**, et al. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
-- Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.
+- Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://arxiv.org/abs/2401.09792).
 - **Ya-Nan Zhu**, Weijie Zhang, et al. Proton ARC based LATTICE radiation therapy with energy layer optimization.
 - **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2023. [Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604).
 
