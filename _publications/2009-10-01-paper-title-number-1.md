@@ -14,7 +14,7 @@ permalink: /publications/
 
 
 ## Publications
-- Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**
+- Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**
 - Jiangjun Ma, Yuting Lin, Min Tang, **Ya-Nan Zhu**, et al. 2024. [SDDRO-DMF: Simultaneous Dose and Dose Rate Optimization (SDDRO) via Dose Modifying Factor (DMF) modeling for FLASH effective dose.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17251) **Medical Physics**.
 - Zhe Xiong, Lei Li, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [On the convergence of continuous and discrete unbalanced optimal transport models.](https://epubs.siam.org/doi/abs/10.1137/22M1520748?journalCode=sjnaam) **SIAM Journal on Numerical Analysis**, 62(2): 749-774.
 - Zhao He, **Ya-Nan Zhu**,Yu Chen, et al. 2023. [A deep unrolled neural network for real-time MRI-guided brain intervention.](https://www.nature.com/articles/s41467-023-43966-w) **Nature Communications**, 14(1), 8257.
