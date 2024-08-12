@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 &emsp;**\*** co-first author with equal contribution.
 ## Preprints
+- Ya-Nan Zhu, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
+- Jiulong Liu,**Ya-Nan Zhu\***, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu et al. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2024. A biological optimization method for carbon therapy via iterative Jacobian-based linearization.
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy
