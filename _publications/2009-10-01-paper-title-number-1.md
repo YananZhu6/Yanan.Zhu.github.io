@@ -9,7 +9,7 @@ permalink: /publications/
 - Jiulong Liu,**Ya-Nan Zhu\***, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu et al. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2024. A biological optimization method for carbon therapy via iterative Jacobian-based linearization.
-- Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy
+- Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
 - Junyi Fan\*,**Ya-Nan Zhu\***, et al. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
