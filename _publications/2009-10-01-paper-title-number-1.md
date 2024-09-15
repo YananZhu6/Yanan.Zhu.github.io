@@ -14,10 +14,11 @@ permalink: /publications/
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
 - Junyi Fan\*,**Ya-Nan Zhu\***, et al. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 - **Ya-Nan Zhu**, Weijie Zhang, et al. Proton ARC based LATTICE radiation therapy with energy layer optimization.
-- **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2023. [Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604).
+
 
 
 ## Publications
+- **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2024. [Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604).**SIAM Journal on Mathematics of Data Science**. Accepted.
 - Jiangjun Ma, Yuting Lin, Min Tang, **Ya-Nan Zhu**, et al. 2024. [SDDRO-DMF: Simultaneous Dose and Dose Rate Optimization (SDDRO) via Dose Modifying Factor (DMF) modeling for FLASH effective dose.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17251) **Medical Physics**.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**, 3, 615-635.
 - Zhe Xiong, Lei Li, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [On the convergence of continuous and discrete unbalanced optimal transport models.](https://epubs.siam.org/doi/abs/10.1137/22M1520748?journalCode=sjnaam) **SIAM Journal on Numerical Analysis**, 62(2): 749-774.
