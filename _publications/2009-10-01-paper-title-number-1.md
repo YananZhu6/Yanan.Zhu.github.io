@@ -4,7 +4,7 @@ title:
 permalink: /publications/
 ---
 &emsp;**\*** co-first author with equal contribution.
-*\#* corresponding author.
+*<sup>#</sup>* corresponding author.
 ## Preprints
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
 - Jiulong Liu\*,**Ya-Nan Zhu\#**, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
