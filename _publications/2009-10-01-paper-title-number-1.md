@@ -6,8 +6,8 @@ permalink: /publications/
 &emsp;**\*** co-first author with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Preprints
-- Ying Luo\*, **Ya-Nan Zhu\*** , Jufri Setianegara , Xue Hong , Weijie Zhang , Chao Wang , Yuting Lin , Qiang Li , Hao GaoSingle-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
+- Ying Luo\*, **Ya-Nan Zhu\*** , Jufri Setianegara , Xue Hong , Weijie Zhang , Chao Wang , Yuting Lin , Qiang Li , Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
 - Jiulong Liu\*,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu et al. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
