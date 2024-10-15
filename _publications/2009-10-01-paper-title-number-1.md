@@ -7,7 +7,7 @@ permalink: /publications/
 *<sup>#</sup>* corresponding author.
 ## Preprints
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
-- Ying Luo\*, **Ya-Nan Zhu\*** , Jufri Setianegara , Xue Hong , Weijie Zhang , Chao Wang , Yuting Lin , Qiang Li , Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy
+- Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
 - Jiulong Liu\*,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu et al. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
@@ -17,7 +17,7 @@ permalink: /publications/
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Yin Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 - **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen
-, and Hao Gao. 2024. Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization
+  Hao Gao. 2024. Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization
 
 
 
@@ -28,7 +28,7 @@ permalink: /publications/
 - Zhe Xiong, Lei Li, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [On the convergence of continuous and discrete unbalanced optimal transport models.](https://epubs.siam.org/doi/abs/10.1137/22M1520748?journalCode=sjnaam) **SIAM Journal on Numerical Analysis**, 62(2): 749-774.
 - Zhao He, **Ya-Nan Zhu**,Yu Chen, Yu Chen, Yi Chen, Yuchen He, Yuhao Sun, Tao Wang, Chengcheng Zhang, Bomin Sun, Fuhua Yan, Xiaoqun Zhang, Qing-Fang Sun, GuangZhong Yang， Yuan Feng. 2023. [A deep unrolled neural network for real-time MRI-guided brain intervention.](https://www.nature.com/articles/s41467-023-43966-w) **Nature Communications**, 14(1), 8257.
 - **Ya-Nan Zhu**, Xiaoqun Zhang, Chris Lominska, Hao Gao. 2023 [An orthogonal matching pursuit optimization method for solving minimum‐monitor‐unit problems: Applications to proton IMPT, ARC and FLASH.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16577) **Medical Physics**, 50(8), 4710-4720.  
-- Zhao He\*, **Ya-Nan Zhu\***, uhao Qiu, Tao Wang, Chencheng  Zhang, Bomin Sun, Xiaoqun Zhang, Yuan Feng. 2022. [Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction](https://ieeexplore.ieee.org/abstract/document/9678015). **IEEE Transactions on Biomedical Engineering**, 69(7), 2294-2304.
+- Zhao He\*, **Ya-Nan Zhu\***, Hao Qiu, Tao Wang, Chencheng Zhang, Bomin Sun, Xiaoqun Zhang, Yuan Feng. 2022. [Low-Rank and Framelet Based Sparsity Decomposition for Interventional MRI Reconstruction](https://ieeexplore.ieee.org/abstract/document/9678015). **IEEE Transactions on Biomedical Engineering**, 69(7), 2294-2304.
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021. [A stochastic variance reduced primal dual fixed point method for linearly constrained separable optimization](https://epubs.siam.org/doi/abs/10.1137/20M1354398). **SIAM Journal on Imaging Sciences**, 14(3), 1326-1353.
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021.[Two modified schemes for the primal dual fixed point method](https://global-sci.org/intro/article_detail/csiam-am/18656.html). **CSIAM Trans. Appl. Math.**, 2, 108-130.
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2020. [Stochastic Primal Dual Fixed Point Method for Composite Optimization](https://link.springer.com/article/10.1007/s10915-020-01265-2). **Journal of Scientific Computing**, 84(1), 16.
