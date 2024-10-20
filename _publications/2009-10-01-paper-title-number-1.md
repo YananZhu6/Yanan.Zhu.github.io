@@ -6,6 +6,8 @@ permalink: /publications/
 &emsp;**\*** co-first author with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Preprints
+- Aoxiang Wang , **Ya-Nan Zhu<sup>#</sup>** , Jufri Setianegara , Yuting Lin , Peng Xiao , Qingguo Xie , Hao Gao. 2024. Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT.
+- Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska,Ronny Rotondo, Ronald C Chen, and Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
