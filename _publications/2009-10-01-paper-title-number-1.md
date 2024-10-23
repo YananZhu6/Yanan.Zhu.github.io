@@ -18,12 +18,13 @@ permalink: /publications/
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
 - Jingbo Xu, Qiaoqiao Ding, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction.
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Yin Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
-- **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen
-  Hao Gao. 2024. Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization
+
 
 
 
 ## Publications
+- **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen
+  Hao Gao. 2024. Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization. **Physics in Medicine & Biology**.
 - **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2024. [Federated Primal Dual Fixed Point Algorithm](https://arxiv.org/abs/2305.13604). **SIAM Journal on Mathematics of Data Science**. Accepted.
 - Jiangjun Ma, Yuting Lin, Min Tang, **Ya-Nan Zhu**, Gregory N. Gan, Ronny L. Rotondo, Ronald C. Chen, Hao Gao. 2024. [SDDRO-DMF: Simultaneous Dose and Dose Rate Optimization (SDDRO) via Dose Modifying Factor (DMF) modeling for FLASH effective dose.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17251) **Medical Physics**.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**, 3, 615-635.
