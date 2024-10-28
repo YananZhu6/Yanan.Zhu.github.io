@@ -1,7 +1,7 @@
 ---
 title: "A ridge-filter-based and group-sparsity-regularized energy layer reduction method for IMPT."
 collection: talks
-type: "Presentation"
+type: "Oral Presentation"
 permalink: /talks/2024-08-10-tutorial-1
 venue: "66<sup>nd</sup> ASTRO Annual Meeting"
 date: 2024-08-10
