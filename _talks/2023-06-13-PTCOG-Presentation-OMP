@@ -4,7 +4,7 @@ large-minimum-MU constraints"
 collection: talks
 type: "Oral Presentation"
 venue: "61<sup>nd</sup> Particle Therapy Co-Operative Group (PTCOG)"
-date: 2024-06-13
+date: 2023-06-13
 location: " Madrid, Spain"
 ---
 The intensities (i.e., number of protons in monitor unit [MU]) of deliverable proton spots need to be either zero or meet a minimum-MU (MMU) threshold, which is a nonconvex problem. Since the dose rate is proportionally associated with the MMU threshold, higher-dose-rate proton radiation therapy (RT) (e.g., efficient intensity modulated proton therapy (IMPT) and ARC proton therapy, 
