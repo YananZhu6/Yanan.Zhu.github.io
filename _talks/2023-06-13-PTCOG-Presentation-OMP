@@ -2,7 +2,7 @@
 title: "An orthogonal matching pursuit optimization method for proton IMPT, ARC and FLASH with
 large-minimum-MU constraints"
 collection: talks
-<span style="color:blue; font-weight:bold;">Oral Presentation</span>
+type: <span style="color:red; font-weight:bold;">Oral Presentation</span>
 venue: "61<sup>nd</sup> Particle Therapy Co-Operative Group (PTCOG)"
 date: 2023-06-13
 location: " Madrid, Spain"
