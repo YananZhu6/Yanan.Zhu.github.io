@@ -1,5 +1,5 @@
 ---
-title: "A ridge-filter-based and group-sparsity-regularized energy layer reduction method for IMPT."
+title: "A ridge-filter-based and group-sparsity-regularized energy layer reduction method for IMPT"
 collection: talks
 type: <span style="color:red; font-weight:bold;">Oral Presentation</span>
 permalink: /talks/2024-08-10-tutorial-1
