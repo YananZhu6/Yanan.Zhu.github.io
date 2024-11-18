@@ -3,7 +3,7 @@ title: "A ridge-filter-based and group-sparsity-regularized energy layer reducti
 collection: talks
 type: <span style="color:red; font-weight:bold;">Oral Presentation</span>
 permalink: /talks/2024-08-10-tutorial-1
-venue: "66<sup>nd</sup> ASTRO Annual Meeting"
+venue: "66<sup>th</sup> ASTRO Annual Meeting"
 date: 2024-08-10
 location: "Washington DC, USA"
 ---
