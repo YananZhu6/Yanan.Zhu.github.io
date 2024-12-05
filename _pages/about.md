@@ -23,4 +23,4 @@ Education
 
 Contact
 ======
-**yzhu4@kumc.edu** 
+**yananzhu6@gmail.com** 
