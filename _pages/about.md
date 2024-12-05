@@ -23,4 +23,4 @@ Education
 
 Contact
 ======
-**yananzhu6@gmail.com** 
+**yananzhu6 AT gmail DOT com** 
