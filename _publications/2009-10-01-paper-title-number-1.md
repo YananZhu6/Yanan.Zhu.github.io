@@ -6,7 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first author with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
- -Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao3. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.
+- Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao3. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.
 - Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2024. Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT.
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
