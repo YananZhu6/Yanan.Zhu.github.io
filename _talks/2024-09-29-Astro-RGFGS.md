@@ -8,4 +8,5 @@ date: 2024-08-10
 location: "Washington DC, USA"
 ---
 
-Rapid IMPT delivery is crucial for increasing proton therapy efficiency, treating more patients, improving dynamic target motion management, and enhancing treatment quality by minimizing uncertainties. It also allows for more breath-hold treatments with reduced normal tissue damage by minimizing target margins. This work reduces energy switching time, which directly affects IMPT delivery time, without sacrificing plan quality by using a novel Ridge-Filter-based and Group-Sparsity-regularized (RFGS) method, significantly decreasing the number of energy layers needed.
+Rapid IMPT delivery is essential for improving proton therapy efficiency, allowing more patients to be treated, enhancing dynamic target motion management, and reducing uncertainties to improve treatment quality. It also enables more breath-hold treatments while minimizing normal tissue damage by reducing target margins.
+This work focuses on reducing energy switching time—a key factor in IMPT delivery speed—without compromising plan quality. By introducing a novel Ridge-Filter-based and Group-Sparsity-regularized (RFGS) method, we significantly decrease the number of required energy layers, making treatment faster and more efficient.
