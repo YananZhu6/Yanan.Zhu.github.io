@@ -8,5 +8,8 @@ location: "Singapore"
 ---
 
 
-LATTICE therapy is a 3D spatially fractionated radiotherapy (SFRT) technique that delivers a spatially modulated dose pattern, with peaks and valleys, to the target area. Combining LATTICE with intensity-modulated proton therapy (IMPT) can enhance dose conformality, as the proton Bragg peaks enable more precise dose delivery. However, challenges such as limited target coverage and increased exposure to 
-nearby organs have constrained its application. This study presents a new approach using proton arc therapy to improve both target coverage and protection of organs-at-risk (OARs), aiming to advance Proton LATTICE therapy for broader clinical use.
+LATTICE therapy is a three-dimensional spatially fractionated radiotherapy (SFRT) technique that delivers a spatially modulated dose distribution
+characterized by high-dose peaks and low-dose valleys within the target volume. When integrated with intensity-modulated proton therapy (IMPT), LATTICE therapy
+benefits from the superior dose conformality of proton Bragg peaks, enabling more precise dose sculpting. However, the clinical implementation of LATTICE therapy
+using IMPT has been limited by challenges such as suboptimal target coverage and increased dose deposition in adjacent organs-at-risk (OARs). This study introduces 
+a novel proton arc therapy approach to enhance dose coverage while improving OAR sparing, thereby optimizing the delivery of Proton LATTICE therapy.
