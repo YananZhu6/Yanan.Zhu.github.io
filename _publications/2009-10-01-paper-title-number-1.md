@@ -21,7 +21,7 @@ permalink: /publications/
 
 
 ## Publications
-- Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025. Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction. **Inverse Problem and Imaging**, Accepted.
+- Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025.[Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction](https://www.aimsciences.org/article/doi/10.3934/ipi.2025001). **Inverse Problem and Imaging**, Accepted.
 - **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen,
   Hao Gao. 2024. [Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad8855). **Physics in Medicine & Biology**, 69(21), 215027.
 - **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2024. [Federated Primal Dual Fixed Point Algorithm](https://epubs.siam.org/doi/full/10.1137/23M1565528). **SIAM Journal on Mathematics of Data Science**, 6(4), 1138-1172.
