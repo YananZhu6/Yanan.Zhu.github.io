@@ -3,7 +3,7 @@ layout: default
 title:
 permalink: /publications/
 ---
-&emsp;**\*** co-first author with equal contribution.
+&emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
 - Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. A ridge filter based energy reduction method for rapid IMPT. 
