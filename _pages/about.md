@@ -20,6 +20,16 @@ Education
 - **2010-2014**, Bachelor in Applied Mathematics,
   [School of Sciences](http://ss.hitwh.edu.cn/sxx/list.htm) , [Harbin Institute of Technology,Weihai](https://www.hitwh.edu.cn/)
 
+Working Experience
+======
+-  **2024-2025**, Research Assistant Professor,
+[University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab.html) 
+-  **2023-2024**, Postdoctoral Fellow,
+[University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab.html) 
+-  **2021-2023**, Postdoctoral Fellow,
+[School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
+
+
 
 Contact
 ======
