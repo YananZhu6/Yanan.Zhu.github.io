@@ -18,7 +18,7 @@ permalink: /publications/
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2024. A biological optimization method for carbon therapy via iterative Jacobian-based linearization.
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
-- Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Yin Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
+- Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 
 ## Publications
