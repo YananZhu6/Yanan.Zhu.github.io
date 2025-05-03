@@ -16,13 +16,14 @@ permalink: /publications/
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
 - Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
-- Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2024. A biological optimization method for carbon therapy via iterative Jacobian-based linearization.
+
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 
 ## Publications
+- Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2025. [A biological optimization method for carbon therapy via iterative Jacobian-based linearization](https://iopscience.iop.org/article/10.1088/1361-6560/add104/meta).Physics in Medicine and Biology.
 - Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025. [Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction](https://www.aimsciences.org/article/doi/10.3934/ipi.2025001). **Inverse Problem and Imaging**, 0-0.
 - **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen,
   Hao Gao. 2024. [Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad8855). **Physics in Medicine & Biology**, 69(21), 215027.
