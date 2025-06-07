@@ -10,12 +10,10 @@ permalink: /publications/
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
 - Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. A ridge filter based energy reduction method for rapid IMPT. 
 - Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.
-- Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2024. Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT.
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
-- Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2024. An efficient operator-splitting minimax algorithm for robust optimization.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
@@ -23,6 +21,8 @@ permalink: /publications/
 
 
 ## Publications
+- Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2025. Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT. **Accepted by Medical Physics**
+- Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2025. An efficient operator-splitting minimax algorithm for robust optimization. **Accepted by Medical Physics**
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2025. [A biological optimization method for carbon therapy via iterative Jacobian-based linearization](https://iopscience.iop.org/article/10.1088/1361-6560/add104/meta). **Physics in Medicine and Biology**, 70(10), 105006.
 - Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025. [Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction](https://www.aimsciences.org/article/doi/10.3934/ipi.2025001). **Inverse Problem and Imaging**, 0-0.
 - **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen,
