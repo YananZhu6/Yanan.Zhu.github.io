@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## Publications
 - Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2025. Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT. **Accepted by Medical Physics**
-- Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2025. An efficient operator-splitting minimax algorithm for robust optimization. **Accepted by Medical Physics**
+- Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2025. [An efficient operator-splitting minimax algorithm for robust optimization](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17929). ** Medical Physics**
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2025. [A biological optimization method for carbon therapy via iterative Jacobian-based linearization](https://iopscience.iop.org/article/10.1088/1361-6560/add104/meta). **Physics in Medicine and Biology**, 70(10), 105006.
 - Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025. [Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction](https://www.aimsciences.org/article/doi/10.3934/ipi.2025001). **Inverse Problem and Imaging**, 0-0.
 - **Ya-Nan Zhu**, Weijie Zhang, Jufri Setianegara, Yuting Lin, Erik Traneus,Yong Long, Xiaoqun Zhang, Rajeev Badkul, David Akhavan, Fen Wang, Ronald C Chen,
