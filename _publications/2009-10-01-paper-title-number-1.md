@@ -6,7 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
-- Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy 
+- Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy. 
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
 - Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. A ridge filter based energy reduction method for rapid IMPT. 
