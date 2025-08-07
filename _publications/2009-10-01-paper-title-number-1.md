@@ -6,6 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
+-  Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy.
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy. 
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).
