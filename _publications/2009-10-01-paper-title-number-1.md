@@ -23,7 +23,7 @@ permalink: /publications/
 
 
 ## Publications
-- Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. [New energy layer reduction method for rapid intensity-modulated proton therapy (IMPT) using a ridge filter](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.18031). **Medical Physics**
+- Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. [New energy layer reduction method for rapid intensity-modulated proton therapy (IMPT) using a ridge filter](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.18031). **Medical Physics**, 52(8), e18031.
 - Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2025. [Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17941). **Medical Physics**, 52(7), e17941.
 - Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2025. [An efficient operator-splitting minimax algorithm for robust optimization](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17929). **Medical Physics**.
 - Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Yuting Lin, Hao Gao. 2025. [A biological optimization method for carbon therapy via iterative Jacobian-based linearization](https://iopscience.iop.org/article/10.1088/1361-6560/add104/meta). **Physics in Medicine and Biology**, 70(10), 105006.
