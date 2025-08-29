@@ -3,7 +3,7 @@ title: "Accelerated primal dual fixed point method"
 collection: talks
 type: "Plenary Talk"
 venue: "Union of Mathematical Imaging, (UMI)"
-date: 2025-09-19 - 2025-09-21
+date: 2025-09-19 to 2025-09-21
 location: " Enshi, Hubei, China"
 ---
 This work introduces an **Accelerated Primal-Dual Fixed Point (APDFP)** method, which leverages *Nesterov's acceleration technique* to solve composite optimization problems where a nonsmooth term is composed with a matrix.  
