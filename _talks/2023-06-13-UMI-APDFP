@@ -9,4 +9,4 @@ location: "Enshi, Hubei, China"
 ---
 
 This work introduces an Accelerated Primal-Dual Fixed Point (APDFP) method, which leverages Nesterov's acceleration to solve composite optimization problems where a nonsmooth term is composed with a matrix. The APDFP method features fully decoupled iterations and generalizes Nesterov’s second method to cases where the linear operator is not the identity. Theoretically, we improve the convergence rate of the **partial primal–dual gap** with respect to the Lipschitz constant from \(\mathcal{O}(1/k)\) to \(\mathcal{O}(1/k^2)\).
-Numerical experiments on graph-guided logistic regression and CT image reconstruction validate the correctness and efficiency of the method. [Download slide (PDF)](https://github.com/YananZhu6/Yanan.Zhu.github.io/raw/master/assets/CV.pdf)
+Numerical experiments on graph-guided logistic regression and CT image reconstruction validate the correctness and efficiency of the method. [Download slide (PDF)](https://github.com/YananZhu6/Yanan.Zhu.github.io/raw/master/assets/)
