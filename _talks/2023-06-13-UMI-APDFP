@@ -1,11 +1,16 @@
 ---
-title: "Accelerated primal dual fixed point method"
+title: "Accelerated Primal-Dual Fixed Point Method"
 collection: talks
 type: "Plenary Talk"
-venue: "Union of Mathematical Imaging, (UMI)"
-date: 2025-09-19 to 2025-09-21
-location: " Enshi, Hubei, China"
+venue: "Union of Mathematical Imaging (UMI)"
+date: 2025-09-19
+end_date: 2025-09-21
+location: "Enshi, Hubei, China"
 ---
-This work introduces an Accelerated Primal-Dual Fixed Point (APDFP) method, which leverages Nesterov's acceleration technique to solve composite optimization problems where a nonsmooth term is composed with a matrix. The APDFP method features fully decoupled iterations and can be regarded as a generalization of Nesterov’s second method to settings where the linear operator in the objective is not the identity matrix. From a theoretical perspective, we improve the convergence rate of the partial primal-dual gap with respect to the Lipschitz constant from $$
-\mathcal{O}(1/k) \text{to} \mathcal{O} (1/k^2). $$ Numerical experiments on graph-guided logistic regressio and CT image reconstruction are conducted to validate the correctness and demonstrate the efficiency of the proposed method.[(slide)](https://yananzhu6.github.io/assets/CV.pdf)
 
+This work introduces an Accelerated Primal-Dual Fixed Point (APDFP) method, which leverages Nesterov's acceleration to solve composite optimization problems where a nonsmooth term is composed with a matrix. The APDFP method features fully decoupled iterations and generalizes Nesterov’s second method to cases where the linear operator is not the identity. Theoretically, we improve the convergence rate of the **partial primal–dual gap** with respect to the Lipschitz constant from \(\mathcal{O}(1/k)\) to \(\mathcal{O}(1/k^2)\).
+Numerical experiments on graph-guided logistic regression and CT image reconstruction validate the correctness and efficiency of the method.
+
+<iframe src="https://yananzhu6.github.io/assets/CV.pdf" width="100%" height="600px"></iframe>
+
+👉 [Download slides (PDF)](https://yananzhu6.github.io/assets/CV.pdf)
