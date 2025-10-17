@@ -15,14 +15,15 @@ permalink: /publications/
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
-- **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
-- Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy.
+
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925).
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 
 ## Publications
+- Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2024. A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy. 2025. **Medical  Physics.**
+- **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2024. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy. 2025. **Accepted by Techology in Cancer & Treatment.**
 - Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. [New energy layer reduction method for rapid intensity-modulated proton therapy (IMPT) using a ridge filter](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.18031). **Medical Physics**, 52(8), e18031.
 - Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2025. [Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17941). **Medical Physics**, 52(7), e17941.
 - Jiulong Liu,**Ya-Nan Zhu<sup>#</sup>**, Xiaoqun Zhang, Hao Gao. 2025. [An efficient operator-splitting minimax algorithm for robust optimization](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17929). **Medical Physics**, 52(7), e17929.
