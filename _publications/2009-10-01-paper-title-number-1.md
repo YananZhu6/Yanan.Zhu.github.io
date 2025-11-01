@@ -6,6 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
+- **Ya-Nan Zhu**. 2025. Accelerated primal dual fixed point algorithm.
 -  Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy.
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy. 
