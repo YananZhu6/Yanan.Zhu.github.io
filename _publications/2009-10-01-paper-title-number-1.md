@@ -21,7 +21,7 @@ permalink: /publications/
 
 ## Publications
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925). **Accepted by Journal of Scientific Computing**.
-- **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2025. Equivalent-uniform-dose optimization for spatially fractionated radiation therapy. 2025. **Accepted by Techology in Cancer & Treatment**.
+- **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2025. [Equivalent-uniform-dose optimization for spatially fractionated radiation therapy](https://journals.sagepub.com/doi/full/10.1177/15330338251380609). **Technology in Cancer Research & Treatment**, 24, 15330338251380609
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2025. [A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.18089). **Medical  Physics.** 52(10), e18089.
 - Aoxiang Wang\*, **Ya-Nan Zhu\***, Jufri Setianegara, Yuting Lin, Valentin Hamaide, Arnaud Pin, Peng Xiao, Qingguo Xie, and Hao Gao. 2025. [New energy layer reduction method for rapid intensity-modulated proton therapy (IMPT) using a ridge filter](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.18031). **Medical Physics**, 52(8), e18031.
 - Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Jufri Setianegara, Yuting Lin, Peng Xiao, Qingguo Xie, Hao Gao. 2025. [Development and experimental validation of an in-house treatment planning system with greedy energy layer optimization for fast IMPT](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17941). **Medical Physics**, 52(7), e17941.
