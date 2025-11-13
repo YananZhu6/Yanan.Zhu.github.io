@@ -6,15 +6,24 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
-[10]. **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).
-[9]. Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
-[8]. Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy. 
-[7]. **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).
-[6]. Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
-[5]. Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.
+[10]. **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).   
+
+[9]. Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.  
+
+[8]. Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.   
+
+[7]. **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315). 
+
+[6]. Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844). 
+
+[5]. Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.  
+
 [4]. Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
+
 [3]. Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
+
 [2]. Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
+
 [1]. Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 ## Publications
