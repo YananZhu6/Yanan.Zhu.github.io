@@ -18,7 +18,7 @@ permalink: /publications/
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 ## Publications
-- Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy.**Accepted by Medical  Physics**.
+- Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy. **Accepted by Medical  Physics**.
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients. **Accepted by Medical  Physics**.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925). **Accepted by Journal of Scientific Computing**.
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2025. [Equivalent-uniform-dose optimization for spatially fractionated radiation therapy](https://journals.sagepub.com/doi/pdf/10.1177/15330338251380609). **Technology in Cancer Research & Treatment**, 24, 15330338251380609
