@@ -8,7 +8,6 @@ permalink: /publications/
 ## Submitted
 - **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).
 -  Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
-- Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy.
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy. 
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
@@ -16,10 +15,11 @@ permalink: /publications/
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy.
-- Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2024. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients.
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
 
 ## Publications
+- Jiayue Han, **Ya-Nan Zhu<sup>#</sup>**,  Aoxiang Wang, Wangyao Li, Yuting Lin, Hao Gao. 2025. Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy.**Accepted by Medical  Physics**.
+- Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients. **Accepted by Medical  Physics**.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925). **Accepted by Journal of Scientific Computing**.
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2025. [Equivalent-uniform-dose optimization for spatially fractionated radiation therapy](https://journals.sagepub.com/doi/pdf/10.1177/15330338251380609). **Technology in Cancer Research & Treatment**, 24, 15330338251380609
 - Jiangjun Ma\*, **Ya-Nan Zhu\***,  Min Tang, Hao Gao. 2025. [A multi-arc and constant-energy-per-arc treatment planning method for efficient proton ARC therapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.18089). **Medical  Physics.** 52(10), e18089.
