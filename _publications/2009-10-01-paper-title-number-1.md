@@ -39,7 +39,7 @@ permalink: /publications/
 - Zhao He\*, **Ya-Nan Zhu\***, Hao Qiu, Tao Wang, Chencheng Zhang, Bomin Sun, Xiaoqun Zhang, Yuan Feng. 2022. [Low-Rank and framelet based sparsity decomposition for interventional MRI reconstruction](https://ieeexplore.ieee.org/abstract/document/9678015). **IEEE Transactions on Biomedical Engineering**, 69(7), 2294-2304.
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021. [A stochastic variance reduced primal dual fixed point method for linearly constrained separable optimization](https://epubs.siam.org/doi/abs/10.1137/20M1354398). **SIAM Journal on Imaging Sciences**, 14(3), 1326-1353.
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021.[Two modified schemes for the primal dual fixed point method](https://web.archive.org/web/20210717010021id_/https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v2n1/21_108.pdf?1614330923). **CSIAM Trans. Appl. Math.**, 2, 108-130.
-- **Ya-Nan Zhu**, Xiaoqun Zhang. 2020. [Stochastic primal dual fixed point method for composite optimization](https://link.springer.com/article/10.1007/s10915-020-01265-2). **Journal of Scientific Computing**, 84(1), 16.
+[1]. **Ya-Nan Zhu**, Xiaoqun Zhang. 2020. [Stochastic primal dual fixed point method for composite optimization](https://link.springer.com/article/10.1007/s10915-020-01265-2). **Journal of Scientific Computing**, 84(1), 16.
 
 
 
