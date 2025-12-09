@@ -13,11 +13,11 @@ permalink: /publications/
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
 - Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.  
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
-- Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.  
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy. 
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
  
 ## Publications
+- Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2024. A fully flexible joint lattice position and dose optimization method for LATTICE therapy. **Accepted by Medical  Physics**. 
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients. **Accepted by Medical  Physics**.  
 - Jiayue Han, Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Wangyao Li, Yuting Lin, Hao Gao<sup>#</sup>. 2025. [Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy](https://pubmed.ncbi.nlm.nih.gov/41316733/). **Medical  Physics**，52(12), e70171.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925). **Accepted by Journal of Scientific Computing**.  
