@@ -18,7 +18,7 @@ permalink: /publications/
  
 ## Publications
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy. **Accepted by Medical  Physics**. 
-- Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients. **Medical Physics**, 52(12), e70183.  
+- Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. [Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70183). **Medical Physics**, 52(12), e70183.  
 - Jiayue Han, Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Wangyao Li, Yuting Lin, Hao Gao<sup>#</sup>. 2025. [Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy](https://pubmed.ncbi.nlm.nih.gov/41316733/). **Medical  Physics**，52(12), e70171.
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://arxiv.org/abs/2401.15925). **Accepted by Journal of Scientific Computing**.  
 - **Ya-Nan Zhu**, Weijie Zhang, Yuting Ling, Hao Gao. 2025. [Equivalent-uniform-dose optimization for spatially fractionated radiation therapy](https://journals.sagepub.com/doi/pdf/10.1177/15330338251380609). **Technology in Cancer Research & Treatment**, 24, 15330338251380609.  
