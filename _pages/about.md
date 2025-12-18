@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I am serving as a Research Assistant Professor at the [University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab-x19611.html). I obtained my Ph.D from the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), hosted by [Prof. Xiaoqun Zhang](https://math.sjtu.edu.cn/faculty/xqzhang/index.html). My current interests lie in applying and devising optimization algorithms (not limit to continuous optimization) for Medical Image Processing, Biomedical Engineering, and Proton Radiation Therapy.
+I am serving as a Associate Research Fellow at the [SChool of Mathematics, Harbin Institute of Technology](https://math.hit.edu.cn/) I obtained my Ph.D from the [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and the [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), hosted by [Prof. Xiaoqun Zhang](https://math.sjtu.edu.cn/faculty/xqzhang/index.html). My current interests lie in applying and devising optimization algorithms (not limit to continuous optimization) for Medical Image Processing, Biomedical Engineering, and Proton Radiation Therapy.
 
 Education
 ======
@@ -22,6 +22,8 @@ Education
 
 Working Experience
 ======
+-  **2025-present**, Associate Research Fellow,
+[SChool of Mathematics, Harbin Institute of Technology](https://math.hit.edu.cn/) 
 -  **2024-2025**, Research Assistant Professor,
 [University of Kansas Medical Center](https://www.kumc.edu/school-of-medicine/academics/departments/radiation-oncology/research/gao-lab.html) 
 -  **2023-2024**, Postdoctoral Fellow,
