@@ -7,7 +7,6 @@ permalink: /publications/
 *<sup>#</sup>* corresponding author.
 ## Submitted
 - **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).  
-- Xin Tong, Weijie Zhang , **Ya-Nan Zhu**, Xue Hong , Chao Wang, Jufri Setianegara, Yuting Lin, and Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy.
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).   
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
