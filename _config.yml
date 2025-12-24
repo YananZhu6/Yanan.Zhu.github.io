@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Ya-Nan Zhu"
+  name             : "Ya-Nan Zhu"
   # avatar           : "profile.png"
   avatar           : "Headshot.jpg"
-  # bio              : "Optimization"
-  # location         : "Location"
+  bio              : "Optimization algorithmsfor Medical Image Processing, Biomedical Engineering, and Proton Radiation Therapy."
+  location         : "Harbin, Heilongjiang"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0Dc6mSsAAAAJ&hl=en"
