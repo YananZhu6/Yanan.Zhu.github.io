@@ -15,7 +15,7 @@ permalink: /publications/
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
  
 ## Publications
-- Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2024. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy. **Accepted by Medical  Physics**. 
+- Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2025. Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy. **Accepted by Medical  Physics**. 
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2025. A fully flexible joint lattice position and dose optimization method for LATTICE therapy. **Accepted by Medical  Physics**. 
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. [Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70183). **Medical Physics**, 52(12), e70183.  
 - Jiayue Han, Aoxiang Wang, **Ya-Nan Zhu<sup>#</sup>**, Wangyao Li, Yuting Lin, Hao Gao<sup>#</sup>. 2025. [Joint Range-modulator and Spot Optimization for Bragg-peak Proton FLASH Radiotherapy](https://pubmed.ncbi.nlm.nih.gov/41316733/). **Medical  Physics**，52(12), e70171.
