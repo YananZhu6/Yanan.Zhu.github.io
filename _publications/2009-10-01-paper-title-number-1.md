@@ -10,7 +10,6 @@ permalink: /publications/
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).   
 - Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
-- Ying Luo, Chao Wang, **Ya-Nan Zhu**, Wangyao Li, Daniel Johnson, Yuting Lin, David Akhavan, Krishna Reddy, Carolyn Savioz, Qiang Li, and Hao Gao. 2024. SFUD-IMPT: single-field-uniform-dose regularized multi-field optimization for robust IMPT.  
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
  
