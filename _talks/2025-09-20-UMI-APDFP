@@ -12,6 +12,7 @@ This work proposes an Accelerated Primal–Dual Fixed-Point (APDFP) method that 
 The APDFP features fully decoupled iterations and can be regarded as a generalization of Nesterov’s accelerated gradient the setting where the $$B$$  can be non identity matrix.Theoretically, we improve the convergence rate of the partial
 primal-dual gap with respect to the Lipschitz constant of gradient of $$f$$ from $$\mathcal{O}(\frac{1}{k})$$ to $$\mathcal{O}(\frac{1}{k^2})$$. Numerical experiments on graph-guided logistic regression and CT image reconstruction are 
 conducted to validate the correctness and demonstrate the efficiency of the proposed method. 
-**Slides:** [PDF](/assets/APDFP_enshi_release.pdf)
+[Slides (PDF)]({{ site.baseurl }}/assets/APDFP_enshi_release.pdf)
+
 
 
