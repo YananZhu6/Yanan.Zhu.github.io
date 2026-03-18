@@ -15,7 +15,6 @@ News
 ======
 ## 03.09.2026, One short oral poster at PTCOG 2026
 Our abstract “An IMPT Energy Layer Optimization Based on a Mixed-Integer Model and a Variational Quantum Computing Approach” has been selected for a short oral poster at PTCOG 2026.
-
 ## Fall, 2025. Joined HIT
 I joined the School of Mathematics, Harbin Institute of Technology as a Research Associate.
 
