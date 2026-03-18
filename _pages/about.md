@@ -36,7 +36,7 @@ News
 ======
 <ul style="line-height:1.3; margin-top:0; margin-bottom:0;">
   <li>
-    <strong>03.09.2026 — Short Oral Presentation (Poster) at PTCOG 2026</strong><br>
+    <strong>03.09.2026 — Short Oral Poster at PTCOG 2026</strong><br>
     Our abstract “An IMPT Energy Layer Optimization Based on a Mixed-Integer Model and a Variational Quantum Computing Approach” has been selected for a short oral poster at PTCOG 2026.
   </li>
   <li style="margin-top:6px;">
