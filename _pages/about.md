@@ -13,7 +13,9 @@ I am serving as a Associate Research Fellow at the [School of Mathematics, Harbi
 
 News
 ======
-- ## 03.09.2026— Short Oral Presentation (Poster) at PTCOG 2026
+- ## 03.18.2026 — Paper Published
+  Our paper “Single-Field Uniform Dose per Fraction Simultaneous Dose and Dose Rate Optimization (SFUDPF-SDDRO) Method for Proton FLASH Therapy” has been published in *Medical Physics*.
+- ## 03.09.2026. Short Oral Presentation (Poster) at PTCOG 2026
   Our abstract “An IMPT Energy Layer Optimization Based on a Mixed-Integer Model and a Variational Quantum Computing Approach” has been selected for a short oral poster at PTCOG 2026.
 - ## Fall, 2025. Joined HIT
   I joined the School of Mathematics, Harbin Institute of Technology as a Research Associate.
