@@ -31,7 +31,7 @@ Working Experience
 -  **2021-2023**, Postdoctoral Fellow,
 [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index) and [Institute of Natural Sciences (INS)](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
 
-
+<!--
 News
 ======
 <ul style="line-height:1.3; margin-top:0; margin-bottom:0;">
@@ -48,7 +48,7 @@ News
     I joined the School of Mathematics, Harbin Institute of Technology as a Research Associate.
   </li>
 </ul>
-
+-->
 
 Contact
 ======
