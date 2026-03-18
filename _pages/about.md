@@ -35,6 +35,10 @@ Working Experience
 News
 ======
 <ul style="line-height:1.3; margin-top:0; margin-bottom:0;">
+    <li>
+    <strong>03.18.2026 — Paper Published</strong><br>
+    Our Single-Field Uniform Dose per Fraction Simultaneous Dose and Dose Rate Optimization (SFUDPF-SDDRO) Method for Proton FLASH Therapy” has been published in *Medical Physics*.
+    </li>
   <li>
     <strong>03.09.2026 — Short Oral Poster at PTCOG 2026</strong><br>
     Our abstract “An IMPT Energy Layer Optimization Based on a Mixed-Integer Model and a Variational Quantum Computing Approach” has been selected for a short oral poster at PTCOG 2026.
