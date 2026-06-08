@@ -6,6 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
+- Haozheng Shen, Ya-Nan Zhu, Nimita Shinde, Yong Long, and Hao Gao. 2026. A novel VMAT treatment planning method via mixed-integer programming (MIP) optimization.
 - Jiangjun Ma, **Ya-Nan Zhu**, Min Tang, Hao Gao. 2026. Joint Spot Weight and Scanning Path Optimization for Proton FLASH Therapy.  
 - **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).  
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.
