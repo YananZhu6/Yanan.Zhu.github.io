@@ -7,7 +7,7 @@ permalink: /publications/
 *<sup>#</sup>* corresponding author.
 ## Submitted
 - Haozheng Shen, **Ya-Nan Zhu**, Nimita Shinde, Yong Long, and Hao Gao. 2026. A novel VMAT treatment planning method via mixed-integer programming (MIP) optimization.
-- Quan Zhou, **Xinguo Liu<sup>#**, Wei Wu, Qiang Li, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. An energy-switching-free carbon-ion arc technique for dose-conformal LATTICE. 
+- Quan Zhou, **Xinguo Liu**<sup>#</sup>, Wei Wu, Qiang Li, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. An energy-switching-free carbon-ion arc technique for dose-conformal LATTICE. 
 - Jiangjun Ma, **Ya-Nan Zhu**, Min Tang, Hao Gao. 2026. Joint Spot Weight and Scanning Path Optimization for Proton FLASH Therapy.  
 - **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).  
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.
@@ -17,7 +17,7 @@ permalink: /publications/
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
  
 ## Publications
-Wenzhou Xia, **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2026. [A Memory-Efficient Hierarchical Algorithm for Large-scale Optimal Transport Problems](https://openreview.net/pdf?id=CkOBcyntGd).In The Fourteenth International Conference on Learning Representations (ICLR 2026). 
+- Wenzhou Xia, **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2026. [A Memory-Efficient Hierarchical Algorithm for Large-scale Optimal Transport Problems](https://openreview.net/pdf?id=CkOBcyntGd).In The Fourteenth International Conference on Learning Representations (ICLR 2026). 
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2026. [Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70291). **Medical Physics**, 53(3), e70291.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2026. [Dose optimization with fully flexible vertex positioning for LATTICE radiotherapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70262). **Medical  Physics**, 53(1), e70262.  
 - Jiaxin Li, **Ya-Nan Zhu**, Li Lyu, Zhong Chen, Fazal Khan, Wangyao Li, Chao Wang, Gregory N Gan, Chris Lominska, Qiang Li, Weiqiang Chen, Hao Gao. 2025. [Efficient proton-photon patient selection via dose and NTCP prediction for head-and-neck cancer patients](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70183). **Medical Physics**, 52(12), e70183.  
