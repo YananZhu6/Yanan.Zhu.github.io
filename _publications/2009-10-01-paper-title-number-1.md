@@ -6,7 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
-- Maidina Abuduxiku, Nimita Shinde,  **Qiang Li<sup>#</sup>**, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. A Quantum Optimization Approach to the Minimum-Monitor-Unit Problem in Proton Therapy.
+- Maidina Abuduxiku, Nimita Shinde,  Qiang Li<sup>#</sup>, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. A Quantum Optimization Approach to the Minimum-Monitor-Unit Problem in Proton Therapy.
 - Haozheng Shen, **Ya-Nan Zhu**, Nimita Shinde, Yong Long, and Hao Gao. 2026. A novel VMAT treatment planning method via mixed-integer programming (MIP) optimization.
 - Quan Zhou, Xinguo Liu<sup>#</sup>, Wei Wu, Qiang Li, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. An energy-switching-free carbon-ion arc technique for dose-conformal LATTICE. 
 - Jiangjun Ma, **Ya-Nan Zhu**, Min Tang, Hao Gao. 2026. Joint Spot Weight and Scanning Path Optimization for Proton FLASH Therapy.  
