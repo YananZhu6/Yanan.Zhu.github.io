@@ -25,7 +25,6 @@ permalink: /publications/
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**, 3, 615-635.  
 - Zhe Xiong, Lei Li, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [On the convergence of continuous and discrete unbalanced optimal transport models.](https://epubs.siam.org/doi/abs/10.1137/22M1520748?journalCode=sjnaam) **SIAM Journal on Numerical Analysis**, 62(2): 749-774.  
 - Zhao He, **Ya-Nan Zhu**,Yu Chen, Yu Chen, Yi Chen, Yuchen He, Yuhao Sun, Tao Wang, Chengcheng Zhang, Bomin Sun, Fuhua Yan, Xiaoqun Zhang, Qing-Fang Sun, GuangZhong Yang, Yuan Feng. 2023. [A deep unrolled neural network for real-time MRI-guided brain intervention.](https://www.nature.com/articles/s41467-023-43966-w) **Nature Communications**, 14(1), 8257.  
-- **Ya-Nan Zhu**, Xiaoqun Zhang, Chris Lominska, Yuting Lin, Hao Gao. 2023 [An orthogonal matching pursuit optimization method for solving minimum‐monitor‐unit problems: Applications to proton IMPT, ARC and FLASH.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16577) **Medical Physics**, 50(8), 4710-4720.   
 - Zhao He\*, **Ya-Nan Zhu\***, Hao Qiu, Tao Wang, Chencheng Zhang, Bomin Sun, Xiaoqun Zhang, Yuan Feng. 2022. [Low-Rank and framelet based sparsity decomposition for interventional MRI reconstruction](https://ieeexplore.ieee.org/abstract/document/9678015). **IEEE Transactions on Biomedical Engineering**, 69(7), 2294-2304. 
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021. [A stochastic variance reduced primal dual fixed point method for linearly constrained separable optimization](https://epubs.siam.org/doi/abs/10.1137/20M1354398). **SIAM Journal on Imaging Sciences**, 14(3), 1326-1353.  
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2021.[Two modified schemes for the primal dual fixed point method](https://web.archive.org/web/20210717010021id_/https://doc.global-sci.org/uploads/Issue/CSIAM-AM/v2n1/21_108.pdf?1614330923). **CSIAM Trans. Appl. Math.**, 2, 108-130.  
@@ -48,7 +47,7 @@ permalink: /publications/
   Hao Gao. 2024. [Proton ARC based LATTICE radiation therapy: feasibility study, energy layer optimization and LET optimization](https://iopscience.iop.org/article/10.1088/1361-6560/ad8855). **Physics in Medicine & Biology**, 69(21), 215027.  
 - **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2024. [Federated Primal Dual Fixed Point Algorithm](https://epubs.siam.org/doi/full/10.1137/23M1565528). **SIAM Journal on Mathematics of Data Science**, 6(4), 1138-1172.  
 - Jiangjun Ma, Yuting Lin, Min Tang, **Ya-Nan Zhu**, Gregory N. Gan, Ronny L. Rotondo, Ronald C. Chen, Hao Gao. 2024. [SDDRO-DMF: Simultaneous Dose and Dose Rate Optimization (SDDRO) via Dose Modifying Factor (DMF) modeling for FLASH effective dose.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17251) **Medical Physics**，51(6), 1234-1245.  
-
+- **Ya-Nan Zhu**, Xiaoqun Zhang, Chris Lominska, Yuting Lin, Hao Gao. 2023 [An orthogonal matching pursuit optimization method for solving minimum‐monitor‐unit problems: Applications to proton IMPT, ARC and FLASH.](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16577) **Medical Physics**, 50(8), 4710-4720.   
 
   
 
