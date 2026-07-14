@@ -19,7 +19,7 @@ permalink: /publications/
  
 ## Publications
 ### Optimization Related
-- Wenzhou Xia, **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2026. [A Memory-Efficient Hierarchical Algorithm for Large-scale Optimal Transport Problems](https://openreview.net/pdf?id=CkOBcyntGd).In The Fourteenth International Conference on Learning Representations (ICLR 2026). 
+- Wenzhou Xia, **Ya-Nan Zhu**, Jingwei Liang, Xiaoqun Zhang. 2026. [A Memory-Efficient Hierarchical Algorithm for Large-scale Optimal Transport Problems](https://openreview.net/pdf?id=CkOBcyntGd). **In The Fourteenth International Conference on Learning Representations (ICLR 2026)**. 
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2025. [A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery](https://link.springer.com/article/10.1007/s10915-025-03122-6). **Journal of Scientific Computing**, 106(1), 23.
 - Jingbo Xu,**Ya-Nan Zhu**, Xiaoqun Zhang, Qiaoqiao Ding. 2025. [Personalized Artifacts Modeling and Federated Learning for Multi-institutional Low Dose CT Reconstruction](https://www.aimsciences.org/article/doi/10.3934/ipi.2025001). **Inverse Problem and Imaging**, 0-0.  
 - Yuanwei Zhang, **Ya-Nan Zhu**, Xiaoqun Zhang. 2024. [Compressing MIMO Channel Submatrices with Tucker Decomposition: Enabling Efficient Storage and Reducing SINR Computation Overhead.](https://doc.global-sci.org/uploads/admin/article_pdf/20240531/360455fb6f5e27905f773bfebfc84d25.pdf) **CSIAM Trans. Appl. Math.**, 3, 615-635.
