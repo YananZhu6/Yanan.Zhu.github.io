@@ -6,7 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
-- Wei Wu, **Ya-Nan Zhu**, Nimita Shinde , Xinguo Liu, Yuting Lin, Qiang Li, and Hao Gao. 2026. Joint optimization of beamlet fluence and collimator-position for photon minibeam LATTICE radiotherapy
+- Wei Wu, **Ya-Nan Zhu**, Nimita Shinde , Xinguo Liu, Yuting Lin, Qiang Li, and Hao Gao. 2026. Joint optimization of beamlet fluence and collimator-position for photon minibeam LATTICE radiotherapy.
 - Yuan Pan, Jiulong Liu, **Ya-Nan Zhu**, Hao Gao. 2026. Parallelizable Splitting Algorithms for Large-Scale Voxel-wise Minimax Optimization in Robust Radiotherapy Planning.
 - Maidina Abuduxiku, Nimita Shinde,  Qiang Li<sup>#</sup>, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. A Quantum Optimization Approach to the Minimum-Monitor-Unit Problem in Proton Therapy.
 - Haozheng Shen, **Ya-Nan Zhu**, Nimita Shinde, Yong Long, and Hao Gao. 2026. A novel VMAT treatment planning method via mixed-integer programming (MIP) optimization.
