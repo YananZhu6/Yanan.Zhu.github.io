@@ -6,6 +6,7 @@ permalink: /publications/
 &emsp;**\*** co-first authors with equal contribution.
 *<sup>#</sup>* corresponding author.
 ## Submitted
+- Zhaochen Yu, Ya-Nan Zhu, Jufri Setianegara, Boon-Keng Teo, Alexander Lin, Jiangjun Ma, Min Tang, Jiayue Han, Ying Luo, yong long , Yuting Lin, and Hao Gao. 2026. A proton FLASH treatment planning method with joint optimization of proton spot intensity, range modulator geometry and spot scanning path.
 - Wei Wu, **Ya-Nan Zhu**, Nimita Shinde , Xinguo Liu, Yuting Lin, Qiang Li, and Hao Gao. 2026. Joint optimization of beamlet fluence and collimator-position for photon minibeam LATTICE radiotherapy.
 - Yuan Pan, Jiulong Liu, **Ya-Nan Zhu**, Hao Gao. 2026. Parallelizable Splitting Algorithms for Large-Scale Voxel-wise Minimax Optimization in Robust Radiotherapy Planning.
 - Maidina Abuduxiku, Nimita Shinde,  Qiang Li<sup>#</sup>, **Ya-Nan Zhu<sup>#</sup>**, Hao Gao. 2026. A Quantum Optimization Approach to the Minimum-Monitor-Unit Problem in Proton Therapy.
