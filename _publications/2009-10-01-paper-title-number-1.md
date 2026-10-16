@@ -16,7 +16,6 @@ permalink: /publications/
 - **Ya-Nan Zhu**. 2025. [Accelerated primal dual fixed point algorithm](https://arxiv.org/abs/2511.00385).  
 - Jiulong Liu, Fengmiao Bian, **Ya-Nan Zhu**, and Hao Gao. 2025. A stochastic operator-splitting algorithm for minimum-monitor-unit threshold optimization in proton FLASH therapy.
 - **Ya-Nan Zhu\***, Nimita Shinde\*, Bowen Lin, and Hao Gao. 2025. [An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT](https://arxiv.org/abs/2504.10315).   
-- Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2025. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844).
 - Nimita Shinde, **Ya-Nan Zhu**, Wei Wang, Wangyao Li, Yuting Lin, Gregory N Gan, Christopher Lominska, Ronny Rotondo, Ronald C Chen, Hao Gao. 2024. Multi-IMPT: a biologically equivalent approach to proton ARC therapy.
 - Junyi Fan\*,**Ya-Nan Zhu\***, Yuting Lin, Jianfeng Cai, Ying Luo, Qiang Li, Xiaoqun Zhang and Hao Gao. 2024. Rigorous Spot Reduction (RSR) method for proton ARC therapy.
  
@@ -35,6 +34,7 @@ permalink: /publications/
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2020. [Stochastic primal dual fixed point method for composite optimization](https://link.springer.com/article/10.1007/s10915-020-01265-2). **Journal of Scientific Computing**, 84(1), 16.  
 
 ### Radiation Therapy
+- Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2026. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844). **Accepted by Medical Physics**
 - Xin Tong, **Ya-Nan Zhu**, Nimita Shinde, wangyao li, Weijie Zhang, Chao Wang, Yuting Lin, and Hao Gao. 2026. [A Single-Field-Each-Peak Optimization Method for Motion-Robust Proton LATTICE Therapy](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.70569). **Medical Physics**, 53(7): e70569.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2026. [Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70291). **Medical Physics**, 53(3), e70291.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2026. [Dose optimization with fully flexible vertex positioning for LATTICE radiotherapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70262). **Medical  Physics**, 53(1), e70262.  
