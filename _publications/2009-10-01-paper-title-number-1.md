@@ -34,7 +34,7 @@ permalink: /publications/
 - **Ya-Nan Zhu**, Xiaoqun Zhang. 2020. [Stochastic primal dual fixed point method for composite optimization](https://link.springer.com/article/10.1007/s10915-020-01265-2). **Journal of Scientific Computing**, 84(1), 16.  
 
 ### Radiation Therapy
-- Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2026. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844). **Accepted by Medical Physics**
+- Nimita Shinde, **Ya-Nan Zhu**, Haozheng Shen, Hao Gao. 2026. [A quantum computing approach to beam angle optimization](https://arxiv.org/abs/2504.07844). **Medical Physics**, 53.10 (2026): e70688.
 - Xin Tong, **Ya-Nan Zhu**, Nimita Shinde, wangyao li, Weijie Zhang, Chao Wang, Yuting Lin, and Hao Gao. 2026. [A Single-Field-Each-Peak Optimization Method for Motion-Robust Proton LATTICE Therapy](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.70569). **Medical Physics**, 53(7): e70569.
 - Ying Luo\*, **Ya-Nan Zhu\***, Jufri Setianegara, Xue Hong, Weijie Zhang, Chao Wang, Yuting Lin, Qiang Li, Hao Gao. 2026. [Single-field-uniform-dose-per-fraction simultaneous dose and dose rate optimization (SFUDPF-SDDRO) method for proton FLASH therapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70291). **Medical Physics**, 53(3), e70291.
 - Xin Tong, Weijie Zhang, **Ya-Nan Zhu**, Xue Hong, Chao Wang, Jufri Setianegara, Yuting Lin, Hao Gao. 2026. [Dose optimization with fully flexible vertex positioning for LATTICE radiotherapy](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.70262). **Medical  Physics**, 53(1), e70262.  
